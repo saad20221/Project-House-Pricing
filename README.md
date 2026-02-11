@@ -80,7 +80,7 @@ The automated pipeline performs:
 Run with:
 
 ```bash
-python pipelines/train_interval_pipeline.py
+python Pipeline.py
 ```
 
 ---
