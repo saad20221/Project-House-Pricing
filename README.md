@@ -163,6 +163,14 @@ id, pi_lower, pi_upper
 
 ---
 
+---
+
+##  Power BI
+
+https://app.powerbi.com/groups/12de9ff5-685f-455d-992e-0f63b2327764/reports/629ffb5c-c2a7-4fe2-ad65-28888a020270/ed90c3856c30daa7e5d7?experience=fabric-developer
+
+---
+
 ## 🚀 DevOps Integration
 
 Azure DevOps pipeline performs:
